@@ -1,6 +1,7 @@
-# covid
+# Study Materials
 
-A new Flutter application.
+This app is build using flutter and firebase.
+It provides platform to all college students to buy/sell/share their old study materials..
 
 ## Getting Started
 
